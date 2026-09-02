@@ -1,0 +1,1 @@
+As a passenger, I want the option to purchase a standing ticket, so that I can still travel when seats are unavailable.
